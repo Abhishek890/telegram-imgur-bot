@@ -8,7 +8,7 @@
       "required": true
     },
     "TELEGRAM_BOT_TOKEN": {
-      "description": "API token for your Telegram bot. Find yours from @BotFather.",
+      "description": "1775978684:AAFYqYoKInmZhlXc4v3nreY5kvFcYRbiyts",
       "required": true
     },
     "IMGUR_CLIENT_ID": {
